@@ -1,1 +1,1 @@
-qwerty uiop
+raushan: When searching for issues, you can get text match metadata for the issue title, issue body, and issue comment body fields when you pass the text-match media type. For more details about how to receive highlighted search results, see Text match metadata.
